@@ -4,12 +4,12 @@
 #  hello-microverse-imvh-2
 
 > Hello-Microverse Project to learn to install and use linter
-dsdsfdsdsdsds asASas
+
 ## Built With
 
-- html dasdasdasd
-- css dsadsadsa asaSAs erwerewr
-- linter asasaSAs asasasaS SASASA werwerwer
+- html
+- css 
+- linter 
 
 aAaAa
 ## Getting Started

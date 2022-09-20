@@ -9,9 +9,8 @@
 
 - html
 - css 
-- linter 
+- linters
 
-aAaAa
 ## Getting Started
 
 **This is a Project to learn to install and use linter.**
